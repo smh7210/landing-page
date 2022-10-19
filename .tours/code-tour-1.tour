@@ -1,0 +1,21 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "code tour 1",
+  "steps": [
+    {
+      "title": "header class",
+      "description": ""
+    },
+    {
+      "file": "index.html",
+      "description": "step 2",
+      "line": 11
+    },
+    {
+      "file": "styles.css",
+      "description": "step 3",
+      "line": 33
+    }
+  ],
+  "ref": "header-retry"
+}
