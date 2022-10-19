@@ -8,7 +8,6 @@ a {
 }
 
 
-
 .header-wrapper {
     background-color: #1F2937;
     padding: 10px 0;
@@ -44,4 +43,8 @@ a {
 .logo {
     font-size: 1.5rem;
     color: #f9faf8;
+}
+
+.container {
+    
 }
