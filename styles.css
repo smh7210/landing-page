@@ -137,3 +137,35 @@ button {
 .container4 p {
     align-self: flex-end;
 }
+
+.action {
+    background-color: whitesmoke;
+    padding: 100px 0;
+
+}
+
+.action p:first-child {
+    color: whitesmoke;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.action p:nth-of-type(2) {
+    color: #f9faf8;
+}
+
+.container5 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 992px;
+    margin: 0 auto;
+    background-color: #3882F6;
+    border-radius: 15px;
+    padding: 50px 120px;
+}
+
+.action button {
+    border: 5px solid whitesmoke;
+}
+
