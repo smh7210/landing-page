@@ -53,6 +53,10 @@ a {
     font-size: 3rem;
 }
 
+.margin-left {
+    margin-left: 20px;
+}
+
 .hero p {
     color: #e5e7eb;
     font-size: 1.125rem;
@@ -65,4 +69,39 @@ button {
     border: none;
     height: 2rem;
     width: 8.25rem;
+}
+
+.info {
+    background-color: whitesmoke;
+    padding-bottom: 125px;
+}
+
+.info p {
+    font-size: 18px;
+    color: gray;
+}
+
+.info img {
+    border-radius: 15px;
+}
+
+    .container2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 992px;
+    margin: 0 auto;
+    padding: 50px 0;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+}
+
+.container3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 992px;
+    margin: 0 auto;
+    text-align: center;
 }
