@@ -1,7 +1,6 @@
 * {
     margin:0;
     padding:0;
-    font-family: roboto;
 }
 
 a {
@@ -162,10 +161,17 @@ button {
     margin: 0 auto;
     background-color: #3882F6;
     border-radius: 15px;
-    padding: 50px 120px;
+    padding: 50px 100px;
 }
 
 .action button {
-    border: 5px solid whitesmoke;
+    border: 2px solid whitesmoke;
+}
+
+footer p {
+    background-color:#1F2937;
+    color:#f9faf8;
+    text-align: center;
+    padding: 40px;
 }
 
